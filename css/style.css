@@ -3,12 +3,33 @@
     background-color: #4EA0FF;
     height: 150px;
     background-image: url(../img/pattern.png);
-    
+   
 }
 
 #logo {
     height: 35%;
     margin-top: 80px;
-    margin-left: 10px;  
-       
+    margin-left: 10px;   
+
+}
+#titolo-principale {
+    font-size: 45px;
+    margin-bottom: 5px;
+}
+.sottotitolo {
+    color: grey;
+    font-size: 23px;
+}
+.autore {
+    color: #4EA0FF ;
+}
+.data {
+    color: grey;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+.didascalia {
+    margin-top: 5px;
+    font-size: 15px;
 }
