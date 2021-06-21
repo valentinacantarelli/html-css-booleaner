@@ -54,17 +54,13 @@ thead {
     background-color: #4EA0FF ;
     font-size: 20px ;
     color: white;
-    
-    
 }
 .prima-terza{
     background-color: #B1E5F2;
     font-size: 20px;  
 }
-td{
-   
-    text-align: justify;
-    width: 10%;
+td{ 
+    width: 5%;
 }
 .seconda {
     background-color: white;
