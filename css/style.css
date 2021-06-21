@@ -19,6 +19,7 @@
 .sottotitolo {
     color: grey;
     font-size: 23px;
+    font-weight: bold;
 }
 .autore {
     color: #4EA0FF ;
@@ -38,5 +39,27 @@
 }
 .lista {
     font-size: 20px;
-    margin-left: 2px;
+    margin-left: 0px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+}
+.sottolineatura {
+    background-color: rgb(231, 235, 20);
+}
+thead {
+    background-color: #4EA0FF ;
+    font-size: 20px ;
+    color: white;
+    
+
+}
+.prima-terza{
+    background-color: #B1E5F2;
+    font-size: 20px;
+    
+}
+.seconda {
+    background-color: white;
+    font-size: 20px;
 }
