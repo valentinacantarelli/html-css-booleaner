@@ -47,16 +47,24 @@
 .sottolineatura {
     background-color: rgb(231, 235, 20);
 }
+table{
+    border-collapse: collapse;
+}
 thead {
     background-color: #4EA0FF ;
     font-size: 20px ;
     color: white;
     
+    
 }
 .prima-terza{
     background-color: #B1E5F2;
-    font-size: 20px;
-    
+    font-size: 20px;  
+}
+td{
+   
+    text-align: justify;
+    width: 10%;
 }
 .seconda {
     background-color: white;
