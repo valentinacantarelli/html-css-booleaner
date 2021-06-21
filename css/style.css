@@ -63,3 +63,33 @@ thead {
     background-color: white;
     font-size: 20px;
 }
+
+.titolo-footer{
+    font-size: 20px;
+    color: grey;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.footer-primo {
+    background-image: url(../img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    padding-left: 15px;
+    padding-top: 15px;
+    margin-bottom: 10px;
+    
+}
+.footer-secondo {
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
